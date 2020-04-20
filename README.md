@@ -13,8 +13,9 @@ List of open-source implementations of Magenta projects in PyTorch.
 1. @djosix - https://github.com/djosix/Performance-RNN-PyTorch
 
 #### MusicVAE
-1. @Variational-Autoencoder - https://github.com/Variational-Autoencoder/MusicVAE
-2. @xgarcia238 - https://github.com/xgarcia238/8bit-VAE
+1. @jlingohr - https://github.com/jlingohr/magenta-torch
+2. @Variational-Autoencoder - https://github.com/Variational-Autoencoder/MusicVAE
+3. @xgarcia238 - https://github.com/xgarcia238/8bit-VAE
 
 #### NSynth
 1. @morris-frank - https://github.com/morris-frank/nsynth-pytorch
